@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrakNet.Data", "TrakNet.Data\TrakNet.Data.csproj", "{88A44E80-04D8-4E13-8550-A3E5C232CE1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrakNet.Entities", "TrakNet.Entities\TrakNet.Entities.csproj", "{20CBE167-9636-4958-8006-9593746F4429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrakNet.WebApi", "TrakNet.WebApi\TrakNet.WebApi.csproj", "{835A5C2B-1056-471F-8E87-6531C3452922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrakNet.WcfService", "TrakNet.WcfService\TrakNet.WcfService.csproj", "{3436BF37-D3DC-41EF-9BD9-E13AC244AD28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88A44E80-04D8-4E13-8550-A3E5C232CE1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A44E80-04D8-4E13-8550-A3E5C232CE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A44E80-04D8-4E13-8550-A3E5C232CE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A44E80-04D8-4E13-8550-A3E5C232CE1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20CBE167-9636-4958-8006-9593746F4429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CBE167-9636-4958-8006-9593746F4429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CBE167-9636-4958-8006-9593746F4429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CBE167-9636-4958-8006-9593746F4429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{835A5C2B-1056-471F-8E87-6531C3452922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835A5C2B-1056-471F-8E87-6531C3452922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835A5C2B-1056-471F-8E87-6531C3452922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835A5C2B-1056-471F-8E87-6531C3452922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3436BF37-D3DC-41EF-9BD9-E13AC244AD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3436BF37-D3DC-41EF-9BD9-E13AC244AD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3436BF37-D3DC-41EF-9BD9-E13AC244AD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3436BF37-D3DC-41EF-9BD9-E13AC244AD28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
